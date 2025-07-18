@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(14, 9, 9);
+}
+body {
+    width: 1140px;
+}
+p, h3 {
+    background-color: rgb(33, 32, 32);
+}
+
+.first {
+    text-align: center;
+    background-color: rgb(33, 32, 32);
+    width: 450px;
+    border: 1px solid rgb(33, 32, 32);
+    margin: 345px;
+    padding: 10px auto;
+    border-radius: 20px;
+}
+img {
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin: 10px 0;
+}
+h3 {
+    color:white; 
+    font-size: 30px; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif UI;
+    padding: 0;
+    margin: 0;
+}
+p, #para {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white; 
+    padding: auto;
+}
+#para {
+    color: greenyellow;
+    margin-top: 0;
+    padding-top: 0;
+}
+#git {
+    width: 350px;
+    height: 50px;
+    background-color: rgb(56, 53, 53) ;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+#fro {
+    width: 350px;
+    height: 50px;
+    background-color: rgb(56, 53, 53) ;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+#lin {
+    width: 350px;
+    height: 50px;
+    background-color: rgb(56, 53, 53) ;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+#twi {
+    width: 350px;
+    height: 50px;
+    background-color: rgb(56, 53, 53) ;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+#ins {
+    width: 350px;
+    height: 50px;
+    background-color: rgb(56, 53, 53) ;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 30px;
+}
+
+
